@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "timezone": "America/Argentina/Buenos_Aires",
+  "updated_at": "2025-12-18",
+  "users": {
+    "U01": { "allow": true,  "note": "Usuario 1" },
+    "U02": { "allow": true,  "note": "Usuario 2" },
+    "U03": { "allow": true,  "note": "Usuario 3" },
+    "U04": { "allow": true,  "note": "Usuario 4" },
+    "U05": { "allow": true,  "note": "Usuario 5" }
+  }
+}
